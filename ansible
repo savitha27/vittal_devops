@@ -1,0 +1,1 @@
+Ansible is an open-source, agentless IT automation tool that automates provisioning, configuration management, application deployment, and orchestration across servers, cloud environments, and network devices. Written in Python, it uses human-readable YAML files called playbooks to define desired system states.
